@@ -116,7 +116,7 @@
                                             </tr>
                                             <tr>
                                                 <td>Shipping</td>
-                                                <td>Rs 70<00/td>
+                                                <td>Rs 7000</td>
                                             </tr>
                                             <tr class="total">
                                                 <td>Total</td>
@@ -125,7 +125,7 @@
                                         </table>
                                     </div>
                                 </div>
-                                <a href="checkout.html" class="btn btn-sqr d-block">Proceed Checkout</a>
+                                <a href="{{ url('/checkout') }}" class="btn btn-sqr d-block">Proceed Checkout</a>
                             </div>
                         </div>
                     </div>

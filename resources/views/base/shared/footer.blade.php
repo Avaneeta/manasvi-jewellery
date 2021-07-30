@@ -23,8 +23,8 @@
                                 <address class="contact-block">
                                     <ul>
                                         <li><i class="pe-7s-home"></i> 4710-4890 Lorem-ipsum India</li>
-                                        <li><i class="pe-7s-mail"></i> <a href="mailto:demo@plazathemes.com">demo@yourdomain.com </a></li>
-                                        <li><i class="pe-7s-call"></i> <a href="tel:(012)800456789987">(012) 800 456 789-987</a></li>
+                                        <li><i class="pe-7s-mail"></i> <a href="mailto:info@xyz.com">demo@yourdomain.com </a></li>
+                                        <li><i class="pe-7s-call"></i> <a href="tel:(+91) 123 456 789-987">(+91) 123 456 789-987</a></li>
                                     </ul>
                                 </address>
                             </div>
@@ -38,7 +38,7 @@
                                     <li><a href="{{ url('/about') }}">about us</a></li>
                                     <li><a href="{{ url('/privacy') }}">privacy policy</a></li>
                                     <li><a href="{{ url('/contact') }}">contact us</a></li>
-                                    <li><a href="{{ url('/blog') }}">Blog</a></li>
+                                    <li><a href="{{ url('/blog_list') }}">Blog</a></li>
                                 </ul>
                             </div>
                         </div>

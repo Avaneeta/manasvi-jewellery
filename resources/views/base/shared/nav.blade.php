@@ -250,7 +250,7 @@
                                             </ul>
                                         </li>
                                         <li>
-                                            <a href="#">
+                                            <a href="{{ url('/wishlist') }}">
                                                 <i class="pe-7s-like"></i>
                                                 <div class="notification">0</div>
                                             </a>
